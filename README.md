@@ -1,5 +1,5 @@
 # KSN-Gangl-Prattes
-File Source: Hier wird das Eingangssignal, wahrscheinlich eine Audioquelle, geladen. Es könnte eine Musikdatei oder ein Live-Audio-Stream sein.
+File Source: Hier wird das Eingangssignal geladen. In diesem Fall ist es ein RadioSignal.
 
 LowPass Filter (mit Verkleinerung um Faktor 120): Das Signal wird durch einen Tiefpassfilter geleitet, der alle Frequenzen oberhalb von 40 kHz abschneidet und gleichzeitig die Datenrate reduziert.
 
