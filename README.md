@@ -20,8 +20,8 @@ Audio sink: Das demodulierte Audiosignal wird über Lautsprecher oder Kopfhörer
    	Hinzufügen eines Blocks welches Radio Signale enthält.
 3.	QT GUI Range Blocks:
    	Einrichten von Schiebereglern für RF-Verstärkung, Lautstärke und Frequenzverschiebung in der Benutzeroberfläche.
-4.	QT GUI Sync Block:
-   	Synchronisation der Benutzeroberfläche mit dem Flowgraph zur Visualisierung des Eingangssignals.
+4.	QT GUI Sing Block:
+   	a.	Visualisierung des Eingang Signals   
 5.	Tiefpassfilter:
    	Hinzufügen eines Filters zur Entfernung unerwünschter Frequenzkomponenten im Eingangssignal.
 6.	Rationale Resampling Block:
