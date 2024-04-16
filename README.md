@@ -12,7 +12,7 @@ FM-Demodulator (mit Audioverkleinerung um Faktor 8): Das FM-Radiosignal wird in 
 Audio sink: Das demodulierte Audiosignal wird über Lautsprecher oder Kopfhörer ausgegeben, sodass du die Musik oder den Ton hören kannst.
 
 
-#Zweites Radio
+#Zweites Radio -- Das word (1) ist ungültig
 
 1.	Variablen hinzufügen:
    	Definition von `samplerate` und `frequency_shift` zur Steuerung der Abtastrate und Frequenzverschiebung des Signals.
